@@ -16,9 +16,9 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Get started</a>
                             <div class="dropdown-menu bg-light mt-2">
-                                <a href="feature" class="dropdown-item">Login</a>
-                                <a href="team" class="dropdown-item">Register</a>
-                                <a href="faq" class="dropdown-item">FAQs</a>
+                                <a href="" class="dropdown-item">Login</a>
+                                <a href="" class="dropdown-item">Register</a>
+                                <a href="" class="dropdown-item">FAQs</a>
                             </div>
                         </div>
                         <a href="contact" class="nav-item nav-link">Contact</a>

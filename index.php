@@ -95,7 +95,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="images/AI.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -125,15 +125,16 @@
    <?php include 'serv.php'; ?>
     <!-- Service End -->
 
+        <!-- Case Start -->
+    <?php include 'events.php'; ?>
+    <!-- Case End -->
 
     <!-- Feature Start -->
     <?php include 'feature.php'; ?>
     <!-- Feature End -->
 
 
-    <!-- Case Start -->
-    <?php include 'events.php'; ?>
-    <!-- Case End -->
+    
 
 
     <!-- FAQs Start -->
@@ -141,9 +142,7 @@
     <!-- FAQs Start -->
 
 
-    <!-- Team Start -->
-    <?php include 'team.php'; ?>
-    <!-- Team End -->
+   
 
 
     <!-- Testimonial Start -->

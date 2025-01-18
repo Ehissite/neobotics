@@ -57,7 +57,7 @@
                     <h5>About Company</h5>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-lg-end">
-                    <img class="img-fluid" src="img/hero-img.png" alt="" style="max-height: 300px;">
+                    <img class="img-fluid" src="images/robo.png" alt="" style="max-height: 500px;">
                 </div>
             </div>
         </div>
@@ -92,7 +92,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="images/Syncom3.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -123,8 +123,8 @@
     <!-- Feature End -->
 
 
-    <!-- Team Start -->
-    
+     <!-- Team Start -->
+     <?php include 'team.php'; ?>
     <!-- Team End -->
 
 

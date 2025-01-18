@@ -57,7 +57,7 @@
                     <h5>Our Services</h5>
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-lg-end">
-                    <img class="img-fluid" src="img/hero-img.png" alt="" style="max-height: 300px;">
+                    <img class="img-fluid" src="images/robo.png" alt="" style="max-height: 500px;">
                 </div>
             </div>
         </div>
@@ -86,18 +86,13 @@
     <!-- Full Screen Search End -->
 
 
-    <!-- Service Start -->
-    <?php include 'serv.php'; ?>
-    <!-- Service End -->
-
-
     <!-- services -->
     <div class="container-fluid py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="https://cdn.sanity.io/images/7p2whiua/production/896cb6f834060a014477c7d7020438fba46f5bd3-2048x1536.jpg?rect=0,88,2048,1152&w=1600&h=900&auto=format">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -126,23 +121,13 @@
         <div class="container">
             <div class="row g-5 align-items-center">       
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Company Overview</h1>
-                    <p class="mb-4">Neobotics Ltd. is a leading provider of cutting-edge technological solutions, specializing in advanced technologies such as satellite imaging, robotics, unmanned aerial vehicles (UAVs), unmanned marine vehicles (UMVs), unmanned ground vehicles (UGVs) drones, and artificial intelligence (AI). Our mission is to innovate and deliver state-of-the-art technology solutions that empower businesses, governments, and organizations worldwide to achieve their goals with unmatched efficiency, precision, and reliability.</p>
-                    <p class="mb-4">With a focus on research and development, we are at the forefront of technological advancements, offering integrated solutions that cater to the needs of a rapidly evolving digital landscape. Whether it's enhancing surveillance capabilities, optimizing logistics and delivery systems, or providing real-time data analytics through satellite imagery and AI, Neobotics is committed to pushing the boundaries of what’s possible.</p>
-                    <div class="row g-3">
-                        <div class="col-sm-6">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>Advanced Technology</h6>
-                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Robotics</h6>
-                        </div>
-                        <div class="col-sm-6">
-                            <h6 class="mb-3"><i class="fa fa-check text-primary me-2"></i>Satellite Imaging</h6>
-                            <h6 class="mb-0"><i class="fa fa-check text-primary me-2"></i>Artificial Intelligence</h6>
-                        </div>
-                    </div>
+                    <p class="mb-4">We provide high-resolution satellite images and geospatial data to support industries such as agriculture, urban planning, environmental monitoring, and defense. Our satellite solutions offer detailed, accurate, and up-to-date imagery to facilitate critical decision-making processes.</p>
+                    <p class="mb-4">Our robotics division develops intelligent machines capable of performing complex tasks in various environments. From industrial automation to precision agriculture, our robots are designed to enhance productivity, safety, and efficiency in demanding applications.</p>
+                    
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="images/sate.jpeg">
                     </div>
                 </div>
             </div>
@@ -150,6 +135,9 @@
     </div>
     <!-- Newsletter End -->
 
+       <!-- Service Start -->
+       <?php include 'serv.php'; ?>
+    <!-- Service End -->
 
     <!-- Footer Start -->
     <?php include 'footer.php'; ?>

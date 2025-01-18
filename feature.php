@@ -32,7 +32,7 @@
                     
                 </div>
                 <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="img/feature.png" alt="">
+                    <img class="img-fluid" src="images/ai2.jpeg" alt="">
                 </div>
             </div>
         </div>
